@@ -226,6 +226,14 @@ div.about__imagen{
     height: 100vh;
 }
 
+
+
+div.about__imagen:hover{
+    opacity: 0.7;
+}
+
+
+
 div.about__textos{
     float: right;
     width: 50%;
@@ -344,6 +352,19 @@ div.background2{
 
     height: 100vh;
 }
+
+
+
+
+div.background1:hover,
+div.background2:hover{
+    opacity: 0.7;
+}
+
+
+
+
+
 
 
 
